@@ -1,0 +1,13 @@
+{
+	"name"			:"node-web-scrape",
+	"version"		:"2.15.5",
+	"description"	:"Web scrapping using cheerio",
+	"main"			:"Scrapper.js",
+	"author"		:"Soumyajit",
+	"dependencies"	:{
+		"express"	:"latest",
+		"request"	:"latest",
+		"cheerio"	:"latest",
+		"mongodb"	:"latest"  	
+	} 
+}
